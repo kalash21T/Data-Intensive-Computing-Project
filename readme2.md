@@ -1,5 +1,11 @@
 # Project Submission - Phase 2
 
+Data-Intensive-Computing-Project
+Authors : Kalash Thakur (50560545), Apoorv Sood (50599568) , Jainam Jain(50606698), FNU Syed Zubair Ahmed(50560739)
+Project Name : Using prison data to predict crime rates and enhance resource allocation strategies
+Professor Name : Chen Xu
+Teaching Assistant Name : Xixian Yang
+
 ## Team Members and Questions
 
 | Team Member       | Question                                                                                                     | Code Location                       | Analysis Location                    |
