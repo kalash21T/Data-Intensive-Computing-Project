@@ -11,7 +11,9 @@ Teaching Assistant Name : Xixian Yang
 | Team Member       | Question                                                                                                     | Code Location                       | Analysis Location                    |
 |-------------------|-------------------------------------------------------------------------------------------------------------|-------------------------------------|--------------------------------------|
 | FNU Syed Zubair Ahmed | Q1: Relationship between undertrial and convicted inmates across crimes by state                   | `50560739_50599568_50606698_50560545_phase_2.ipynb` (lines 5-45)  | `50560739_50599568_50606698_50560545_phase_2.ipynb` (lines 50-100) |
-| FNU Syed Zubair Ahmed | Q2: Educational background of inmates and its influence on types of crimes                         | `50560739_50599568_50606698_50560545_phase_2.ipynb` (lines 105-145) | `50560739_50599568_50606698_50560545_phase_2.ipynb` (lines 150-200) |
+| FNU Syed Zubair Ahmed | Q2: Question 2) Can historical data on overcapacity and
+inmate-related expenditures predict the budget allocations
+for prisons in subsequent years?                         | `50560739_50599568_50606698_50560545_phase_2.ipynb` (lines 105-145) | `50560739_50599568_50606698_50560545_phase_2.ipynb` (lines 150-200) |
 | Apoorv Sood          | Q1: Age group demographics in inmates by gender and trial status                                     | `50560739_50599568_50606698_50560545_phase_2.ipynb` (lines 210-250) | `50560739_50599568_50606698_50560545_phase_2.ipynb` (lines 255-300) |
 | Apoorv Sood          | Q2: Pattern of state-wise expenditure vs. productivity in prisons                                    | `50560739_50599568_50606698_50560545_phase_2.ipynb` (lines 305-345) | `50560739_50599568_50606698_50560545_phase_2.ipynb` (lines 350-400) |
 | Jainam Jain          | Question 1) How do the rates of escape and mental illness vary with changes in educational infrastructure over time?                       | `50560739_50599568_50606698_50560545_phase_2.ipynb` (lines 410-450) | `50560739_50599568_50606698_50560545_phase_2.ipynb` (lines 455-500) |
