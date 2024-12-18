@@ -6,6 +6,6 @@ Project Name : Using prison data to predict crime rates and enhance resource all
 Professor Name : Chen Xu
 Teaching Assistant Name : Xixian Yang
 
-The readme for the phase3 folder is inside the "50560739_50599568_50606698_50560545_phase_3". 
+The readme for the phase-3 is inside the "50560739_50599568_50606698_50560545_phase_3" folder. 
 Since the grading for phase 1 and phase 2 have been completed, we have not added them here.
 
