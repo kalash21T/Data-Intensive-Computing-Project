@@ -7,6 +7,13 @@
 
 ---
 
+Our data product leverages **four advanced machine learning algorithms**:
+
+1. **Ridge Regression**: Effectively minimizes overfitting in linear models.
+2. **Random Forest**: Builds a robust ensemble of decision trees.
+3. **XGBoost Regression**: Excels in handling large datasets with high efficiency.
+4. **Logistic Regression**: Provides reliable binary classification.
+
 ## Team Members and Questions 
 
 | Team Member           | Question                                                                                                     | Code Location                       | Report Location                   |
