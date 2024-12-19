@@ -7,12 +7,17 @@
 
 ---
 
-Our data product leverages **four advanced machine learning algorithms**:
+## Highlights
 
-1. **Ridge Regression**: Effectively minimizes overfitting in linear models.
-2. **Random Forest**: Builds a robust ensemble of decision trees.
-3. **XGBoost Regression**: Excels in handling large datasets with high efficiency.
-4. **Logistic Regression**: Provides reliable binary classification.
+### Data Product Overview
+Our data product leverages **four advanced machine learning algorithms**—Ridge Regression, Random Forest, XGBoost Regression, and Logistic Regression—to validate four key hypotheses. Each algorithm is carefully chosen for its unique strengths: Ridge Regression reduces overfitting in linear models, Random Forest creates robust ensembles of decision trees, XGBoost handles large datasets with exceptional performance, and Logistic Regression provides reliable binary classification. The website features four interactive pages dedicated to these hypotheses, allowing users to explore predictions. Each hypothesis has its own dedicated database, and a centralized "Databases" page organizes all the results for seamless access and review.
+
+### Secure Login and User Management
+The website includes a secure **login system** for managing user profiles. Authenticated users can **add, edit, and delete profiles** as needed while ensuring that user inputs and predictions remain secure and unaltered. Each user can only access their own predictions, maintaining privacy and data isolation. This design prioritizes security and usability, creating a personalized experience for each user while safeguarding the integrity of the underlying data.
+
+### Interactive Tableau Dashboards
+To enhance understanding and visualization, **interactive Tableau dashboards** have been developed and published on the **Tableau Public server**, accessible at [this Tableau Public Profile](https://public.tableau.com/app/profile/fnu.syed.zubair.ahmed/vizzes). These dashboards provide dynamic insights into trends and patterns in the data. Advanced features like filters, calculated fields, and parameter controls enable users to customize their exploration and drill into specific metrics. Together, the website’s machine learning capabilities and Tableau dashboards create a comprehensive solution for predictive analysis, user engagement, and data-driven decision-making.
+
 
 ## Team Members and Questions 
 
